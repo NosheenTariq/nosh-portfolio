@@ -6,7 +6,7 @@ const about = {
   name: "Nosheen Tariq",
   role: "Front End Engineer",
   description:
-    "Experienced Software Engineer and Front end Web Developer with a passion for creating seamless digital experiences. Skilled in React.JS, SAAS, and JS. With over two years of experience , I m eager to contribute my expertise to impactful and innovative projects.",
+  "To further develop my skills and expertise in the realm of Web development, I am seeking a stimulating role where I can actively apply my proficiency in Teaching and make a valuable impact within the organization.",
   social: {
     linkedin: "https://linkedin.com",
     github: "https://github.com",
