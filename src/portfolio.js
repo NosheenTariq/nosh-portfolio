@@ -9,7 +9,7 @@ const about = {
   "To further develop my skills and expertise in the realm of Web development, I am seeking a stimulating role where I can actively apply my proficiency in Teaching and make a valuable impact within the organization.",
   social: {
     linkedin: "https://linkedin.com",
-    github: "https://github.com",
+    github: "https://github.com/NosheenTariq?tab=repositories",
   },
 };
 
